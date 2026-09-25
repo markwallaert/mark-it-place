@@ -1,0 +1,7 @@
+{
+  "name": "standup",
+  "description": "Synthesize daily standup markdown from Claude Code transcripts. Default is a cross-project unified entry per day; pass --project for a single-project entry. Run /standup:standup to catch up to yesterday.",
+  "version": "0.4.1",
+  "author": {"name": "Mark Wallaert"},
+  "license": "MIT"
+}

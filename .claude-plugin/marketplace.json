@@ -1,0 +1,14 @@
+{
+  "name": "mark-it-place",
+  "description": "Curated Claude Code plugins by Mark Wallaert",
+  "owner": {
+    "name": "Mark Wallaert"
+  },
+  "plugins": [
+    {
+      "name": "standup",
+      "source": "./plugins/standup",
+      "description": "Daily standup synthesizer — turns Claude Code transcripts into dated markdown entries, cross-project by default or per-project with --project"
+    }
+  ]
+}
